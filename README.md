@@ -1,6 +1,13 @@
-# to_do_app
+# To Do App
 
 A To Do Project
+
+<br> <br>
+
+![Todo](https://github.com/Cansalik/todo_app/assets/84234525/c1d70f46-1072-4225-995a-baa188b46bb7)
+
+<br> <br>
+
 
 ## Getting Started
 
